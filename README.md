@@ -4,7 +4,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V41RJ7RY)
 
 ```txt
-github  $  https://github.com/indifferenzah
+guns    $  https://guns.lol/indifferenzah
 discord $  @indifferenzah
 web     $  https://indifferenzah.com
 ```
